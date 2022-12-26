@@ -2,7 +2,8 @@
 
 Desenvolver uma solução para autorização de compras feitas em cartão de crédito. A solução deve contemplar tanto o lado servidor da solução quanto o cliente que fará as vezes do POS.
 
-#Sobre as APIs:
+# Sobre as APIs:
+
 Criar uma API para solicitações de aprovação de compra;
 Considerar toda a lógica envolvida num processo de aprovação por exemplo, verificar se há saldo disponível, se a senha do usuário confere, se os dados da solicitação de autorização estão corretos, etc;
 A compra precisa ser registrada para consultas futuras;
