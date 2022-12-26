@@ -27,7 +27,7 @@ Todas as API's precisam ser documentadas com Swagger;
 - Log4J ou similar;
 - Micrometer;
 
-##Estudar:
+## Estudar:
 - Collections;
 - Solid;
 - Design Pattern State, Composite, Command, Facade
